@@ -47,6 +47,7 @@ if num % 2 == 0:
 else:
     print (f'0 valor {num} é ímpar)
 print ('fim do programa')
+
 ```
 ## Citação
 como costumam dizer 
