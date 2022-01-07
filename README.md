@@ -38,7 +38,8 @@ _**negrito e italico**_
     gostaria de saber mais sobre o comando 'window.documento.querySelector()' ja linguagem JavaScript
 gostaria de saber mais sobre o comando `window.documento.querySelector()` ja linguagem JavaScript
 ## linha de codigo
-
+~~~ python
+num = int (input('digite um número:'))
 ```
 num = int (input('digite um número:'))
 if num % 2 == 0:
@@ -47,11 +48,20 @@ else:
     print (f'0 valor {num} é ímpar)
 print ('fim do programa')
 ```
-## citação
+## Citação
 como costumam dizer 
 >água mole em pedra dura 
 >tanto bate até que fura 
 
 @Janaina-Oliveira
 
-[//]: # (isso é um comentario )
+[//]: # (isso é um comentario)
+
+## Tabela
+
+exemplo | exemplo
+--------| -------
+exemplo 1 | R$ 10
+exemplo 2 | R$ 160
+exemplo 3 | R$ 210
+exemplo 4 | R$ 108
