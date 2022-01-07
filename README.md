@@ -35,17 +35,17 @@ _**negrito e italico**_
  [Meu Github](https://github.com/Janaina-Oliveira)
 ***
 ## comando isolados 
-    gostaria de saber mais sobre o comando 'window.documento.querySelector()' ja linguagem JavaScript
+gostaria de saber mais sobre o comando 'window.documento.querySelector()' ja linguagem JavaScript
 ## linha de codigo
 
-'''
+' ' '
 num = int (input('digite um número:'))
 if num % 2 == 0:
     print (f'0 valor {num} é par)
 else:
     print (f'0 valor {num} é ímpar)
 print ('fim do programa')
-'''
+' ' '
 ## citação
 como costumam dizer 
 >água mole em pedra dura 
