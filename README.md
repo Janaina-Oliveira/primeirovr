@@ -53,7 +53,7 @@ como costumam dizer
 >água mole em pedra dura 
 >tanto bate até que fura 
 
-@Janaina-Oliveira
+@janaina-Oliveira
 
 [//]: # (isso é um comentario)
 
