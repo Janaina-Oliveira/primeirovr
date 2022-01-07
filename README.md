@@ -34,9 +34,9 @@ _**negrito e italico**_
  ## Link
  [Meu Github](https://github.com/Janaina-Oliveira)
 ***
-##comando isolados 
+## comando isolados 
     gostaria de saber mais sobre o comando 'window.documento.querySelector()' ja linguagem JavaScript
-##linha de codigo
+## linha de codigo
 
 '''
 num = int (input('digite um número:'))
