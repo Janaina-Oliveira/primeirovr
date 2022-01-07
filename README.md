@@ -13,7 +13,7 @@ _**negrito e italico**_
 # lista
 ## Lista numerada
 1. Brasil 
-    - São Paulo
+    1. São Paulo
 2. França 
 8. Lituania
 0. Chile
