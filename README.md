@@ -39,7 +39,7 @@ _**negrito e italico**_
 gostaria de saber mais sobre o comando `window.documento.querySelector()` ja linguagem JavaScript
 ## linha de codigo
 
-```~~~python
+```python
 um = int (input('digite um número:'))
 if num % 2 == 0:
     print (f'0 valor {num} é par)
@@ -61,7 +61,7 @@ como costumam dizer
 
 exemplo | exemplo
 :--------:| -------:
-exemplo 1: | R$ 10
+exemplo 1 | R$ 10
 exemplo 2 | R$ 160
 exemplo 3 | R$ 210
 exemplo 4 | R$ 108
