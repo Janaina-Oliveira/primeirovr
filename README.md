@@ -61,7 +61,7 @@ como costumam dizer
 
 exemplo | exemplo
 --------| -------
-exemplo 1 | R$ 10
+exemplo 1: | R$ 10
 exemplo 2 | R$ 160
-exemplo 3 | R$ 210
-exemplo 4 | R$ 108
+:exemplo 3 | R$ 210
+:exemplo 4: | R$ 108
