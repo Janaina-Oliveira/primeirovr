@@ -32,11 +32,12 @@ _**negrito e italico**_
 ## Imagens
  ![imagem fofa](https://c.tenor.com/Rymj4MuTQIEAAAAj/peach-cat.gif)
  ## Link
- [Mu Github](https://github.com/Janaina-Oliveira)
+ [Meu Github](https://github.com/Janaina-Oliveira)
 ***
 ##comando isolados 
     gostaria de saber mais sobre o comando 'window.documento.querySelector()' ja linguagem JavaScript
 ##linha de codigo
+
 '''
 num = int (input('digite um número:'))
 if num % 2 == 0:
