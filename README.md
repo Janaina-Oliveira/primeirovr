@@ -25,9 +25,9 @@ _**negrito e italico**_
 ***
 ## Lista de tarefas 
 
-[] pão
-[x] leite 
-[] manteiga
+-[] pão
+-[x] leite 
+-[] manteiga
  ***
 ## Imagens
  ![imagem fofa](https://c.tenor.com/Rymj4MuTQIEAAAAj/peach-cat.gif)
