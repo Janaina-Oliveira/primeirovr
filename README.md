@@ -39,8 +39,7 @@ _**negrito e italico**_
 gostaria de saber mais sobre o comando `window.documento.querySelector()` ja linguagem JavaScript
 ## linha de codigo
 
-```
-~~~python
+```~~~python
 um = int (input('digite um número:'))
 if num % 2 == 0:
     print (f'0 valor {num} é par)
