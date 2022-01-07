@@ -18,10 +18,10 @@ _**negrito e italico**_
 0. Chile
 ***
 ## lista com marcadores
- *opcão 
- *opção2
-    *opção3
- *opção4
+ * opcão 
+ * opção2
+    * opção3
+ * opção4
 ***
 ## Lista de tarefas 
 
