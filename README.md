@@ -2,7 +2,7 @@
  Meu Primeiro Repository :-)
 \o/
 ***
-#LINGUIAGEM MARKDOWN
+# LINGUIAGEM MARKDOWN
 _itálico_
 *italico pode ser tambem assim*
 __negrito__
@@ -10,28 +10,28 @@ __negrito__
 _**negrito e italico**_
 ~~riscar texto~~
 ***
-#lista
-##Lista numerada
+# lista
+## Lista numerada
 1. Brasil 
 2. França 
 8. Lituania
 0. Chile
 ***
-##lista com marcadores
+## lista com marcadores
  *opcão 
  *opção2
     *opção3
  *opção4
 ***
-##Lista de tarefas 
+## Lista de tarefas 
 
- - [] pão
- - [x] leite 
- - [] manteiga
+- [] pão
+- [x] leite 
+- [] manteiga
  ***
-##Imagens
+## Imagens
  ![imagem fofa](https://c.tenor.com/Rymj4MuTQIEAAAAj/peach-cat.gif)
- ##Link
+ ## Link
  [Mu Github](https://github.com/Janaina-Oliveira)
 ***
 ##comando isolados 
