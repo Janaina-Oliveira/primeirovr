@@ -2,7 +2,7 @@
  Meu Primeiro Repository :-)
 \o/
 ***
-# LINGUIAGEM MARKDOWN
+# LINGUINGEM MARKDOWN
 _itálico_
 *italico pode ser tambem assim*
 __negrito__
